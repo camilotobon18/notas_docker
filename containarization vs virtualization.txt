@@ -1,0 +1,12 @@
+PROBLEMAS DE LAS MAQUINAS VIRTUALES
+pesadas (GB)
+administración costosa
+lentas
+
+CONTENEDORES
+son agrupaciones de procesos 
+versatiles (MB)
+eficientes: comparten archivos inmutables con otros contenedores. 
+            solo se ejecutan procesos, no un SO completo 
+aislados: lo que pasa en el contenedor queda en el contenedor
+
